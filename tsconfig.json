@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "declaration": true,
+        "target": "es2020",
+        "sourceMap": true,
+        "outDir": "./dist",
+        "incremental": true,
+        "allowJs": true,
+        "skipLibCheck": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true
+    },
+    "include": ["src", "index.ts"]
+}
